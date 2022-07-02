@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.player {
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+    padding: 1%;
+    display: flex;
+    justify-content: space-evenly;
+}
+svg {
+    cursor: pointer;
+}

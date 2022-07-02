@@ -1,0 +1,11 @@
+body {
+    background-color: #000;
+    color: #fff;
+
+}
+
+.time {
+    font-size: 100px;
+    color: #f0000f;
+    text-shadow: 0px 0px 20px #fc5555;
+}
